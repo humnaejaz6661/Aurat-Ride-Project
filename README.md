@@ -1,1 +1,2 @@
-# Aurat-Ride-Project
+The Aurat Ride Project is a movement to support women empowerment and their right to move freely in public spaces. It brings women together to ride bikes and raise awareness about gender equality. The project helps break stereotypes, encourages confidence, and shows that women have the right to be safe and independent on the roads. It is about making space for women in society and supporting their freedom.
+This project is made using only HTML and CSS.
